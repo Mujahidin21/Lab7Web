@@ -1,7 +1,7 @@
 # Lab7Web
-###Nama: Mujahidin Fajar Abdullah
-###Kelas: 19.TI.F1
-###NIM: 311910283
+###Nama Mujahidin Fajar Abdullah
+###Kelas 19.TI.F1
+###NIM 311910283
 ## PHP Dasar
 ### Script
 ![1](https://user-images.githubusercontent.com/81692144/118353193-6686e780-b58f-11eb-8686-5b3f068c51b0.PNG)
